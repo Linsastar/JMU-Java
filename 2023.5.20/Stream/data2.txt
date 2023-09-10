@@ -1,0 +1,10 @@
+1|Student|18|60.0
+2|Student|18|61.0
+3|Student|18|62.0
+4|Student|18|63.0
+5|Student|18|64.0
+6|Student|18|65.0
+7|Student|18|66.0
+8|Student|18|67.0
+9|Student|18|68.0
+10|Student|18|69.0
